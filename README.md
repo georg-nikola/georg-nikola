@@ -52,7 +52,7 @@ Feel free to check out my repositories for more!
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/georg-nikola/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/georg-nikola-pavlov-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PavlovGeorg)
 
 Thanks for visiting my profile! Have a great day! 😊
