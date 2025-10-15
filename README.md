@@ -10,7 +10,7 @@ I'm a passionate software developer & devops engineer with a strong interest in 
 - 🌱 I’m currently learning advanced algorithms and machine learning techniques.
 - 🔭 I’m currently working on a few exciting open-source projects.
 - 💬 Ask me about DevOps tooling and technologies.
-- 📫 How to reach me: [Email](mailto:georg-nikola@gmail.com) | [LinkedIn](https://www.linkedin.com/in/georg-nikola/)
+- 📫 How to reach me: [Email](mailto:georgnikola.pavlov@gmail.com) | [LinkedIn](www.linkedin.com/in/georg-nikola-pavlov-profile)
 
 ## Technologies & Tools
 
