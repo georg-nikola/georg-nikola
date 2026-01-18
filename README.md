@@ -33,11 +33,11 @@ I'm a passionate software developer & devops engineer with a strong interest in 
 
 ## GitHub Stats
 
-![Georg's GitHub stats](https://github-readme-stats.vercel.app/api?username=georg-nikola&show_icons=true&theme=dark&count_private=true)
+![Georg's GitHub stats](https://github-readme-stats.vercel.app/api?username=georg-nikola&show_icons=true&theme=dark&count_private=true&hide_border=true&cache_seconds=1800)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georg-nikola&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georg-nikola&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ## Projects
 
